@@ -1,0 +1,53 @@
+.main{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-items: center;
+    
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.sach{
+    background-color: orange;
+    height: 50px;
+    width: 100px;
+}
+.last{
+    display: flex;
+}
+.imp{
+    width: 650px;
+    height: 50px;
+}
+.see{
+    color: orange;
+}
+.eight{
+    color: orange;
+}
+.call{
+    color: white;
+}
+.num{
+    color: orange;
+}
+.shop{
+    color: white;
+    background-color: greenyellow;
+    width: 500px;
+    height: 100px;
+}
+.bk{
+    color: white and black;
+}
